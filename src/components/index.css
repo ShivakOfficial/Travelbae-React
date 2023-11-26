@@ -1,0 +1,24 @@
+
+.App-header {
+    background-color: #e6e6e9;
+    min-height: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(11, 11, 11);
+  }
+  .navigation{
+    font-size: 25px;
+  }
+  .navbar-brand{
+    font-size: 30px;
+
+  }
+  .card-body {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 3rem;
+}
